@@ -1,3 +1,4 @@
-# fire_base_project
+# FireBase Project
 
-A new Flutter project.
+Introduction to firebase cloud store.
+An app that stores data to Firebase and retrieves the data.
