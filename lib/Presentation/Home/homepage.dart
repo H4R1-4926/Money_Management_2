@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: kLightGreen,
       floatingActionButton: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 165),
+        padding: const EdgeInsets.symmetric(horizontal: 150),
         child: FloatingActionButton(
           onPressed: () {
             Get.to(() => AddPage());
